@@ -1,0 +1,110 @@
+
+.row {
+    width: 1878px;
+    height: 900px;
+    background-color: rgb(163, 172, 172);
+}
+.ca {
+    width: 100%;
+    height: 50px;
+    background-color: red;
+    position: relative;
+}
+/*_____1*/  
+.titulo {
+    font-size: 45px;
+    text-align: center;
+}
+
+nav {
+    width: 100%;
+    height: 35px;
+    background-color: lightgreen;
+    position: relative;
+}
+
+.titulo2 {
+    font-size: 35px;
+    text-align: center;
+}
+/*____*/
+.ca3 {
+    width: 1400px;
+    height: 590px;
+    background-color: pink;
+    position: relative;
+    left: 10px;
+}
+
+.titulo3 {
+    font-size: 78px;
+    position: relative;
+    top: 190px;
+    left: 750px;
+}
+/*____*/
+.ca4 {
+    width: 425px;
+    height: 590px;
+    background-color: aqua;
+    position: relative;
+    left: 1453px;
+    bottom: 610px;
+}
+
+.titulo4 {
+    text-align: center;
+    font-size: 30px;
+
+}
+/*____*/
+.ca5 {
+    width: 310px;
+    height: 500px;
+    background-color: blue;
+    position: relative;
+    bottom: 1180px;
+    left: 1520px;
+}
+
+.ca6 {
+    width: 290px;
+    height: 200px;
+    background-color: rgb(255, 219, 13);
+    position: relative;
+    bottom: 1655px;
+    left: 1490px;
+}
+
+.ca7 {
+    width: 290px;
+    height: 220px;
+    background-color: rgb(157, 255, 0);
+    position: relative;
+    bottom: 1650px;
+    left: 1530px;
+}
+
+.ca8 {
+    width: 310px;
+    height: 30px;
+    background-color: rgb(9, 130, 187);
+    position: relative;
+    bottom: 1710px;
+    left: 1520px;
+}
+
+.ca9 {
+    width: 1868px;
+    height: 70px;
+    background-color: rgb(187, 14, 221);
+    position: relative;
+    bottom: 1650px;
+    left: 10px;
+}
+
+.p{
+    position: relative;
+    bottom: 1900px;
+    left: 1660px;
+}
